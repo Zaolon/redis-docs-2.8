@@ -30,4 +30,3 @@ Redis 命令参考
 
 .. include:: intro.include
 
-:: .. include:: donation.include
