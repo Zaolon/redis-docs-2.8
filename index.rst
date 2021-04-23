@@ -55,4 +55,4 @@ Redis 命令参考
 
 .. include:: about.include
 
-.. include:: donation.include
+:: .. include:: donation.include
